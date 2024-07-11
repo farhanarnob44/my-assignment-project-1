@@ -211,3 +211,59 @@ padding: 32px
 }
 
 /* youtube link section ends here  */
+
+/* my current target section starts here  */
+
+
+.skills-container{
+    display: flex;
+    gap: 24px;
+    
+}
+.skill{
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    gap: 40px;
+
+}
+.skills{
+    height: 460px;
+    /* width: 1140px; */
+    justify-content:center;
+    height: 460px;
+    margin: 80px 150px 80px 150px;
+}
+.center-text{
+    text-align: center;
+}
+.section-title
+{
+height: 37px;
+color: rgb(13, 19, 33);
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+text-align: center;
+margin-bottom: 20px;
+}
+.section-description{
+height: 52px;
+opacity: 0.7;
+color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+.skill-title{
+    margin-top: 8px;
+    margin-bottom: 20px;
+}
+.skill-description{
+    margin-bottom: 24px;
+}
+
+/* my current target section ends here  */
