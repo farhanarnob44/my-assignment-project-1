@@ -265,7 +265,18 @@ text-align: center;
 .skill-description{
     margin-bottom: 24px;
 }
-
+.skill1{
+    border-radius: 16px;
+background-color: rgba(255, 76, 30, 0.05);
+}
+.skill2{
+    border-radius: 16px;
+background-color: rgba(0, 76, 232, 0.05);
+}
+.skill3{
+    border-radius: 16px;
+background-color: rgba(255, 223, 0, 0.05);
+}
 /* my current target section ends here  */
 
 /* support section starts here  */
@@ -339,3 +350,12 @@ padding: 19px 20px 19px 20px;
     width: 120px;
 }
 /* support section ends here  */
+
+/* last section starts here  */
+.main-one{ 
+    margin: 0px 150px 0px 150px;
+    display:flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
