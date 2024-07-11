@@ -6,7 +6,7 @@
 }
 /* header section starts here  */
 .header-container{
-    background-image: url(./assets/Hero-bg.png);
+    background-image: url(../assets/Hero-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -283,7 +283,7 @@ background-color: rgba(255, 223, 0, 0.05);
 
 .support-section-main{
     margin: 80px 150px 80px 150px;
-    background-image: url(./assets/handshake.jpg);
+    background-image: url(../assets/handshake.jpg);
     height: 313px;
     border-radius: 16px;
     display: flex;
