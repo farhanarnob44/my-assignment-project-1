@@ -161,3 +161,53 @@ margin-top:120px
 
 /* why web section ends here  */
 
+.my-inspiration-section{
+    width: 1140px;
+height: 775px;
+margin: 88px 150px 88px 150px;
+display: flex;
+justify-content:top;
+text-align: center;
+flex-direction: column;
+}
+.inspiration-title{
+    /* width: 852px; */
+height: 37px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 20px;
+}
+.inspiration-details{
+    height: 52px;
+    color: rgb(13, 19, 33);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+margin-bottom: 48px;
+}
+.youtube-link{
+    width: 1076px;
+height: 550px;
+border-radius: 16px;
+
+}
+.youtube-link-section{
+    width: 1140px;
+height: 614px;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.2);
+border-radius: 16px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 32px
+}
+
+/* youtube link section ends here  */
